@@ -1,1 +1,6 @@
-
+<ID>YM15</ID>
+<Summary>short executive summary</Summary>
+<steps to reproduce>description of steps</steps to reproduce>
+<actual result>the result we see</actual result>
+<expected result>the result we wanted,expected see</expected result>
+<severity>Blocker,Critical,Major,Minor or Trivial</severity>
